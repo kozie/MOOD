@@ -1,2 +1,2 @@
 // Type defines
-type int = number;
+var CIRCLE = (Math.PI * 2);
