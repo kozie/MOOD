@@ -15,7 +15,7 @@ Then you can build with
 grunt
 ```
 
-or Build and server over http://0.0.0.0:8000 with
+or Build and start server on http://0.0.0.0:8000 with
 ```
 grunt go
 ```
