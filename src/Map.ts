@@ -1,7 +1,7 @@
 class GMap {
   size: int;
 
-  wallGrid: UInt8Array;
+  wallGrid: Uint8Array;
 
   constructor(size: int) {
     this.size = size;
