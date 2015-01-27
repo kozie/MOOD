@@ -1,0 +1,25 @@
+{
+  "name": "MOOD",
+  "version": "1.0.0",
+  "description": "Raycaster thingy",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kozie/MOOD"
+  },
+  "author": "Kozie",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/kozie/MOOD/issues"
+  },
+  "homepage": "https://github.com/kozie/MOOD",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.3.0",
+    "grunt-typescript": "^0.6.1",
+    "typescript": "^1.4.1"
+  }
+}
